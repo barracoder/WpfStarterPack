@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfStarterPack.UI", "WpfStarterPack.UI\WpfStarterPack.UI.csproj", "{3E0118A3-E0AF-41D8-8D37-1E6E7560062B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfStarterPack.Core", "WpfStarterPack.Core\WpfStarterPack.Core.csproj", "{91D2BA65-BF49-476A-8DA9-A6554A243FAF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{9CAED1AB-FD38-449C-BAD8-697755A2CC7D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{4D774180-B09A-4AFD-B181-132AC091F067}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{595D7D01-C771-4485-8B73-A8DA34A3F5A9}"
+	ProjectSection(SolutionItems) = preProject
+		Restore_WideWorldImporters.sql = Restore_WideWorldImporters.sql
+		C:\Users\Mark.Green\Downloads\WideWorldImporters-Standard.bak = C:\Users\Mark.Green\Downloads\WideWorldImporters-Standard.bak
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E0118A3-E0AF-41D8-8D37-1E6E7560062B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0118A3-E0AF-41D8-8D37-1E6E7560062B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0118A3-E0AF-41D8-8D37-1E6E7560062B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0118A3-E0AF-41D8-8D37-1E6E7560062B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D2BA65-BF49-476A-8DA9-A6554A243FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D2BA65-BF49-476A-8DA9-A6554A243FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D2BA65-BF49-476A-8DA9-A6554A243FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D2BA65-BF49-476A-8DA9-A6554A243FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
